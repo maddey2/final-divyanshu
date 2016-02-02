@@ -179,6 +179,7 @@
             _heightConstraint.constant = 160;
             _ImgYConstraint1.constant = _ImgYConstraint1.constant+47;
             _ImgYConstraint2.constant = _ImgYConstraint2.constant+47;
+            
             break;
         }
             
